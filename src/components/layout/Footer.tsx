@@ -90,6 +90,7 @@ export default function Footer() {
       <div className="border-t border-[#2a2a2a]">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-muted font-body text-sm">© 2026 Peak Performance Fitness. All rights reserved.</p>
+          <p className="text-muted font-body text-sm">Designed &amp; Developed by <a href="https://www.infirexa.tech" target="_blank" rel="noopener noreferrer">Infirexa</a></p>
           <p className="font-display font-bold text-orange uppercase tracking-widest text-sm">No Excuses. Just Results.</p>
         </div>
       </div>

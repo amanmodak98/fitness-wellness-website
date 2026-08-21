@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
+
 import { motion, AnimatePresence } from 'framer-motion'
 
 interface ClassSlot { time: string; name: string; trainer: string; color: string }
